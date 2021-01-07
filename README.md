@@ -27,5 +27,8 @@ question6()trong analysis.py
 Câu 7: Q-Learning và Pacman
 Nó có thể nhận thấy sau koảng thời gian pacman sẽ chơi thông minh hơn do số lần chuyên quá nhỏ nên pacman vẫn chưa thắng được
 van dung chay vs pacman
- 
+Câu 8:Q-Learning gần đúng
+-Hoàn thành hàm tối ưu approximateQAgent
++Đối với mỗi tính năng trích xuất cho trạng thái và trọng số tương ứng của hành động--> nên được trích xuất trả về giá trị của 1 trạng thái đó là tổng (f i (s,a)*w i)
+--> cũng như phần trước chúng ta có thể thấy là pacman càng chơi càng thông minh với kết quả này chúng ta đều thắng .
  
